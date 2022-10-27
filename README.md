@@ -9,3 +9,7 @@ and grab the following informations about it :
     - 1 month volume in USD
     - The name of the currency
 If the given ID is correct it will display these informations.
+
+BEFORE TRYING TO EXECUTE THE PROG :
+You have to make sure that you modified the path to the gson library in the file ".classpath" otherwise the program won't recognize the calls to it.
+You can find the library gson on the web, the version used there is gson 2.10.
